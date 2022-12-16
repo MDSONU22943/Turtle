@@ -1,0 +1,57 @@
+import turtle as t
+# t.fd(100)
+# t.rt(90)
+# t.fd(100)
+# t.rt(90)
+# t.fd(100)
+# t.rt(90)
+# t.fd(100)
+# t.circle(50)
+# t.dot(5)   5 is the diameter of dot
+# t.bgcolor("red")
+# t.bgpic(r"C:\Users\MD SONU\Pictures\20181113_185607.jpg")
+# t.title("my turtle")
+# t.pensize(4)
+# t.fd(200)
+# t.pencolor("yellow")
+# t.fillcolor("blue")
+# t.color(pencolor,fill color)
+# t.begin_fill()
+# t.fd(100)
+# t.lt(120)
+# t.fd(100)
+# t.lt(120)
+# t.fd(100)
+# t.end_fill()
+# t.shape("turtle")
+# t.shape("arrow")
+# t.speed(3)
+# t.pencolor("red")
+# t.fillcolor("orange")
+# t.pensize(10)
+# t.speed(7)
+# t.begin_fill()
+# t.circle(75)
+# t.bgcolor("blue")
+# t.end_fill()
+
+# t.fd(100)
+# t.rt(90)
+# t.penup()
+# t.fd(100)
+# t.rt(90)
+# t.pendown()
+# t.fd(100)
+# t.rt(90)
+# t.penup()
+# t.fd(100)
+# t.pendown()
+
+
+# c=t.clone()
+
+
+
+
+
+t.mainloop()
